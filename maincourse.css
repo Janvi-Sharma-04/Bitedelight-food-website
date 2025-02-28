@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container .row{
+    width: 100%;
+    margin-top: 20px;
+    /* margin-bottom: 20px; */
+}
+.card img {
+    width: 100%;
+}
+
+.card{
+    border: 1px solid black;
+}
+
+.card-body{
+    font-weight: bold;   
+}
+
+.card-body .btn-primary{
+    margin-top: 20px;
+}

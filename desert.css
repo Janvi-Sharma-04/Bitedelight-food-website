@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    margin-top: 40px;
+}
+
+.card-body{
+    font-weight: bold;
+}
+

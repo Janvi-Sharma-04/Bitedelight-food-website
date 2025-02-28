@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg{
+    background-color: hsl(52, 89%, 78%) !important;
+}
+
+.nav-link{
+    color: black !important;
+}
+
+.navbar-brand{
+    font-weight: 600;
+}
+
+.dropdown-menu{
+    background-color:hsl(52, 89%, 78%) !important;
+}
+
+.carousel-inner img{
+    height: 92vh;
+    width: 100vh;
+    margin-bottom: 50px;
+}
+
+.card img {
+    height: 15vh;
+}
+
+.card{
+    /* overflow: hidden; */
+    object-fit: cover;
+    background-size: cover;
+}
+
+.btn{
+    border-radius: 10px;
+    background-color: brown;
+    color: bisque;
+}
+
+.btn:hover{
+    border: 1px solid brown;
+}
+
+.container .about{
+    margin-top: 40px;
+    padding: 1.5em;
+}
+
+.container img{
+    height: 34vh;
+}
+
+.container p{
+    font-size: large;  
+}
+
+.worksection h1{
+    width: 100%;
+    font-weight: 100;
+    text-align: center;
+}
+
+.material-symbols-outlined {
+    font-size: 50px;
+}
+
+.spoon-knife { 
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: 0.1px solid black; */
+    border-radius: 50%;
+    width: 20%;
+    padding: 10px; 
+    /* margin-bottom: 80px; */
+    /* display: flex;
+    align-items: center; */
+}
+
+.bi{
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: 0.1px solid black; */
+    border-radius: 50%;
+    width: 20%;
+    padding: 10px;  
+}
+
+.menucard h1{
+    width: 100%;
+    font-weight: 100;
+    text-align: center;
+    margin-bottom: 25px;   
+}
+
+.footersection{
+    background-color: hsla(46, 85%, 35%, 0.925) !important;
+
+    color: rgba(255, 255, 255, 0.45);
+   
+}

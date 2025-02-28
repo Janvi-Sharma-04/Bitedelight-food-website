@@ -1,0 +1,15 @@
+.carousel-inner img{
+    height: fit-content;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.reservationseat{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.reservationseat img{
+    height: 15em;
+}
